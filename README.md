@@ -17,7 +17,7 @@ CC-FlexiMIDI-V1R0-03.09.2009 - A Hardware M.I.D.I. Interface Program Pak Cartrid
  
  
  
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 
@@ -32,14 +32,7 @@ CC-FlexiMIDI-V1R0-03.09.2009 - A Hardware M.I.D.I. Interface Program Pak Cartrid
 This HTML is a veritable train wreck, however, it seems to get the job done on 24 September 2020 and beyond
 -->
 
-<title>Introduction By: Robert &quot;The R.A.T.&quot; Allen Turner (The RAT) - The Little Engineers, TheLittleEngineers.org, RetroATX, RetroATX.com, Retro-ATX, Retro-ATX.com, RoboCircuits, RoboCircuits.org, Tin Cans And Duct Tape, TinCansAndDuctTape.com, TCADT, TCADT.com, Canned Logic, CannedLogic.com, GIMEchip, GIMEchip.com</title>
-
-<link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/cookieconsent.min.css"></link>
-<link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/datetime.css"></link>
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/responsive_two_column_layout.css"></link>
-
-<script src="http://www.TheLittleEngineers.org/js/cookie.consent.min.js"></script>
-<script src="http://www.TheLittleEngineers.org/js/github.min.js"></script>
 
 </head>
 
