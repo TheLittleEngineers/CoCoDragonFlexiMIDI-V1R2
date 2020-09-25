@@ -39,10 +39,6 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
 <body style="background-color:WhiteSmoke;">
 
 <!-- Top Row -->
-<center>
-<h3 style="text-align: center; color: Black;">This page created: April 10, 2019, last updated: September 24, 2020, served: 
-<p class="marquee"><span id="dtText"></span></p>
-<script type="text/javascript" src="http://www.TheLittleEngineers.org/js/date.time.js"></script></h3></center>
 <p align="center">
 <font size="6"><a href="http://www.TheLittleEngineers.org/" target="_blank">The</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Little</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Engineers</a> in conjunction with <a href="http://www.RetroATX.com" target="_blank">Retro</a><u>-</u><a href="http://www.Retro-ATX.com" target="_blank">ATX</a><br></font>
 <font size="5"><em><b><a href="https://www.facebook.com/OurLittleEngineers/" target="_blank">Pulling</a> <a href="https://www.facebook.com/groups/985537051651794/" target="_blank">The</a> <a href="https://www.facebook.com/groups/566741160795144/" target="_blank">Past</a> <a href="https://www.facebook.com/TheLittleEngineers.org" target="_blank">Into</a> <a href="https://www.facebook.com/tincansandducttape/" target="_blank">The</a> <a href="https://www.facebook.com/Tin-Cans-Duct-Tape-728969003939754/" target="_blank">Present</a> <a href="https://www.facebook.com/groups/1654785514796788/" target="_blank">For</a> <a href="https://www.facebook.com/groups/1828354620822631/" target="_blank">The</a> <a href="https://www.facebook.com/groups/1451396811790867/" target="_blank">Future</a><a href="https://www.facebook.com/cpldfpga/" target="_blank"></a></b></em><br></font>
