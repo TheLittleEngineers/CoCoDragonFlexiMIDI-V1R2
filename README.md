@@ -22,9 +22,6 @@
 This HTML is a veritable train wreck, however, it seems to get the job done on 24 September 2020 and beyond. It has been written almost exclusively on a Tandy Colour Computer 3 using Cognitec's TeleWriter-128 and then transferred to a Linux machine for further processing "down the line". The TeleWriter-128 word-processing software was written by Bob Van der Poel for Cognitec.
 -->
 
-<!-- Webpage Title -->
-<title>Introduction to TheLittleEngineers.org and RetroATX.com By: Robert &quot;The R.A.T.&quot; Allen Turner (The RAT).</title>
-
 <!-- CSS Links and inline code -->
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/cookieconsent.min.css">
 <link rel="stylesheet" type="text/css" href="http://www.TheLittleEngineers.org/css/datetime.css">
@@ -59,7 +56,9 @@ CC-FlexiMIDI-V1R0-03.09.2009<br>and<br>CC-FlexiMIDI-V1R1-03.09.2009<br>Updated t
 <p style="text-align:justify;">
 
 <h1 align="center">BACKGROUND:</h1>
+
 <p style="text-align:justify;">
+
 CC-FlexiMIDI-V1R0-03.09.2009 - A Hardware M.I.D.I. Interface Program Pak Cartridge for the Tandy Radio Shack TRS-80 Color Computer 1, 2 and 3, including clones and compatibles (Tano Dragon 64, Dragon Data D32, D64 and D200, Tandy Data Products TDP-100, etcetera) by "Little" John Eric Turner and his father "Big" John Robert (J.R.) Turner. Copyright 09 March 2009. Originally released as Open-Source Hardware on March 9, 2009. Subsequently released under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License on 21 May 2019. ENJOY! Note that the original design is crap, however, a debugged version is forthcoming from "Uncle" Robert "The R.A.T." Allen Turner.  CC-FlexiMIDI-V1R0-03.09.2009 has been updated to CC-FlexiMIDI-V1R1-03.09.2009 by R.A. Turner on May 21, 2019, just over ten years after the initial release of Version 1, Revision 0. Version 1, Revision 1 is Copyright (C) 2019 by the above mentioned parties and is released under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License on 21 May 2019.
 </p>
 <p align="center">===============================</p>
