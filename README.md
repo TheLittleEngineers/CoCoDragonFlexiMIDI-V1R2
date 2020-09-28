@@ -34,27 +34,21 @@ This HTML is a veritable train wreck, however, it seems to get the job done on 2
   font-size:larger;
 }
 </style>
-<!--
-<!-- JavaScript Links and inline code -->
-<script src="http://www.TheLittleEngineers.org/js/cookie.consent.min.js"></script>
-<script src="http://www.TheLittleEngineers.org/js/github.min.js"></script>
--->
 </head>
 
 <body style="background-color:WhiteSmoke;">
 
 <!-- First (Top) Row, No Columns -->
-<!-- Display page creation, modification and serve Date -->
-<p style="text-align:center;">This page created: April 10, 2019, last updated: September 24, 2020, served:</p> 
-<p class="marquee"><span id="dtText"></span></p>
-<script src="http://www.TheLittleEngineers.org/js/date.time.js"></script>
-<hr>
-<p style="text-align:center;">
 
+<hr>
+
+<p style="text-align:center;">
 <h1 style="text-align:center;">
-<a href="http://www.TheLittleEngineers.org/" target="_blank">The</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Little</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Engineers</a> in conjunction with <a href="http://www.RetroATX.com" target="_blank">Retro</a><u>-</u><a href="http://www.Retro-ATX.com" target="_blank">ATX</a></h1>
+<a href="http://www.TheLittleEngineers.org/" target="_blank">The</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Little</a> <a href="http://www.TheLittleEngineers.org/" target="_blank">Engineers</a> in conjunction with <a href="http://www.RetroATX.com" target="_blank">Retro</a><u>-</u><a href="http://www.Retro-ATX.com" target="_blank">ATX</a></h1></p>
+<p style="text-align:center;">
 <h2 style="text-align:center;">
-PRESENTS:</h2>
+PRESENTS:</h2></p>
+
 <h3 style="text-align:center;">
 <p align="center">
 CC-FlexiMIDI-V1R0-03.09.2009<br>and<br>CC-FlexiMIDI-V1R1-03.09.2009<br>Updated to CC-FlexiMIDI-V1R2-12.29.2019<br>on<br>December 29, 2019<br>
